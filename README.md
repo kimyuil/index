@@ -4,7 +4,7 @@ this repository that explains my other project repositories.
 링크를 통해서 여러 프로젝트의 레파지토리로 이동할 수 있습니다.
 
 webProject 1.1
-https://github.com/kimyuil/webProject
+https://github.com/kimyuil/webProject_onlyShop
 
 
 여기 index에 
@@ -26,3 +26,7 @@ main 이력서를 하나.
 버전별 업데이트 사항을 꾸준히 기록하기.
 무슨 다이어그램? 같은것도 넣기.
 각 프로젝트별 세부적인 이력서를 여기에 넣는 걸로.
+
+** 한 주제당
+적용기술과 깃헙주소와 작품 주소 실제로 올려 놓으면 될듯함.. 
+현재 2개 예상중 (web onlyShop과 플러터..)
