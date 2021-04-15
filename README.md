@@ -18,6 +18,9 @@ mybatis mysql
 jwt
 vscode
 
+* aws 무중단 배포 테스트용 웹서버
+https://github.com/kimyuil/awsTest
+
 
 
 
