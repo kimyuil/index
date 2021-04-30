@@ -1,9 +1,9 @@
 # index
 
-#작업중인 혹은 작업이 완료된 레파지토리들입니다.
+# 작업중인 혹은 작업이 완료된 레파지토리들입니다.
 
 
-##키보드 판매 사이트 모방
+## 키보드 판매 사이트 모방
 * https://github.com/kimyuil/webProject_onlyShop
 * Spring framework
 * jsp + js/jquery
