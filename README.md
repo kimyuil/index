@@ -25,6 +25,9 @@
 
 ## aws 무중단 배포 테스트용 웹서버
 https://github.com/kimyuil/awsTest
+* code deploy
+* code build
+* aws ubuntu
 
 ### TODO toy project (worked in the past)
 * python 게임
